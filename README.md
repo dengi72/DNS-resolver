@@ -1,5 +1,7 @@
 # dns-resolver
 
+It's the project as a part of course on "Computer networks".
+
 ## Libraries
 
 ```
